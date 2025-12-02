@@ -1,4 +1,4 @@
 # AirBnBPredictionModel
 
-[![Click to view slides](<img width="1527" height="864" alt="Screenshot 2025-12-02 at 11 22 30 AM" src="https://github.com/user-attachments/assets/9daf2977-23e0-4aef-ae04-f23231c8630e" />
-)](slides.pdf)
+Click here to view our presentation about the project!
+https://www.canva.com/design/DAG3SYJLGto/SudarsK_YoMcDGoibGE6xg/view?utm_content=DAG3SYJLGto&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f8fdafbc9
