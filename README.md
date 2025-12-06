@@ -1,4 +1,3 @@
-# AirBnBPredictionModel
+# AirBnB Prediction Model
 
-
-[Ethics Case Simulation.docx](https://github.com/user-attachments/files/23979897/Ethics.Case.Simulation.docx)
+[Project Proposal.pdf](https://github.com/user-attachments/files/23979900/Project.Proposal.pdf)
